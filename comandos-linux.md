@@ -78,38 +78,79 @@ Comando `touch` cria arquivo
 
 Comando `mv` é usado para mover arquivos
 
-![touch](img/topico02/12.png)
+![mv](img/topico02/12.png)
 
 --------------
 
 O comando `cp` é usado para criar uma cópia do conteúdo do arquivo ou diretório especificado
 
-![touch](img/topico02/14.png)
+![cp](img/topico02/14.png)
 
 --------------
 
 O comando `ls` é usado para criar links simbólicos
 
-![touch](img/topico02/16.png)
+![ls](img/topico02/16.png)
 
 --------------
 
 O comando `find` é usado para localizar arquivos em um determinado diretório
 
-![touch](img/topico02/17.png)
+![find](img/topico02/17.png)
 
 --------------
 
 O comando `du-h` é exibe a quantidade de espaço o cupado por cada diretório
 
-![touch](img/topico02/18.png)
+![du](img/topico02/18.png)
 
 
 --------------
 
 O comando `tree` lista o conteúdo dos diretórios em formato de árvore
 
-![touch](img/topico02/19.png)
+![tree](img/topico02/19.png)
+
+
+## Manipulação de Conteúdo com comandos Shell
+
+`>>` permite redirecionar a saida para um arquivo, no nosso exemplo estamos denominando o arquivo de linhas.txt
+
+![>>](img/topico03/01.png)
+
+
+--------------
+
+Comando `cat` permite visuliar o arquivo que criamos atenriormente
+
+![cat](img/topico03/02.png)
+
+--------------
+
+Comando `more` permite visuliar arquivos página-a-página ou linha-a-linha utilizando respctivamente `Space` ou `Enter`
+
+![more](img/topico03/03.png)
+
+--------------
+
+Comando `less` é o mais recomomentado dentre o que já foi mostrado, é um `more` melhorado pois permite utilizar a naveção de setas
+
+![less](img/topico03/04.png)
+
+No comando `less` utilizando a `/` é possível realizar pesquisas em um determinado arquivo
+
+![less](img/topico03/05.png)
+
+
+--------------
+
+Comandos `tail` e `head` são uteis para visualização de logs, vendo respectivamente o fim e o início de um determinado arquivo de log
+
+
+![tail-e-head](img/topico03/09.png)
+
+--------------
+
 
 
 
