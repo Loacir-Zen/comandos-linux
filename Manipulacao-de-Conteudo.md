@@ -1,6 +1,6 @@
 ## Manipulação de Conteúdo com comandos Shell
 
-`>>` permite redirecionar a saida para um arquivo, no nosso exemplo estamos denominando o arquivo de linhas.txt
+`>>` permite redirecionar a saída para um arquivo, no nosso exemplo estamos denominando o arquivo de linhas.txt
 
 ![>>](img/topico03/01.png)
 
@@ -30,7 +30,7 @@ No comando `less` utilizando a `/` é possível realizar pesquisas em um determi
 
 --------------
 
-Comandos `tail` e `head` são uteis para visualização de logs, vendo respectivamente o fim e o início de um determinado arquivo de log
+Comandos `tail` e `head` são uteis para visualização de logs, visualizando respectivamente o fim e o início de um determinado arquivo de log
 
 ![tail-e-head](img/topico03/07.png)
 
@@ -54,7 +54,7 @@ Redirecionando a saida do comando `ls -l` para o arquivo listagem-2.txt, utiliza
 
 Redirecionadores que tem a função de receber, menor que `<` ou `<<` 
 
-Neste exemplo esteamos fazendo o comando `more` receber o conteúdo de linhas-2.txt
+Neste exemplo estamos fazendo o comando `more` receber o conteúdo de linhas-2.txt
 
 ![redirecionador](img/topico03/13.png)
 
