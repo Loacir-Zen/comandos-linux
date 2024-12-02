@@ -38,7 +38,7 @@ Comandos: `grep`, `cut`, `wc` e `awk`
 
 -----------
 
-## 4. Empacotadores e Compactadores
+## 5. Empacotadores e Compactadores
 
 [Empacotadores e Compactadores](https://github.com/Loacir-Zen/comandos-linux/blob/main/Empacotadores-e-Compactadores.md)
 
