@@ -1,7 +1,7 @@
 # Comandos Linux 
 ![tux](/img/tux.png)
 
-## Introdução ao Shell
+## 1. Introdução ao Shell
 
 Comandos: `pwd`, `ls`, `cd`, `cd ..` e `man` 
 
@@ -10,7 +10,7 @@ Comandos: `pwd`, `ls`, `cd`, `cd ..` e `man`
 
 -----------
 
-## Manipulação de Arquivos
+## 2. Manipulação de Arquivos
 
 Comandos: `mkdir`, `rmdir`, `rm -r`, `touch`, `mv`, `cp` e `find`
 
@@ -20,7 +20,7 @@ Comandos: `mkdir`, `rmdir`, `rm -r`, `touch`, `mv`, `cp` e `find`
 
 -----------
 
-## Manipulação de Conteúdo
+## 3. Manipulação de Conteúdo
 
 Comandos: `cat`, `more`, `less`, `tail` e `head`
 
@@ -30,13 +30,18 @@ Comandos: `cat`, `more`, `less`, `tail` e `head`
 
 -----------
 
-## Filtro de Conteúdo
+## 4. Filtro de Conteúdo
 
 Comandos: `grep`, `cut`, `wc` e `awk`
 
 [Link do GitHub Filtro de Conteúdo](https://github.com/Loacir-Zen/comandos-linux/blob/main/Filtro-de-Conteudo.md)
 
+-----------
 
+## 4. Empacotadores e Compactadores
 
+[Empacotadores e Compactadores](https://github.com/Loacir-Zen/comandos-linux/blob/main/Empacotadores-e-Compactadores.md)
+
+Comandos: `zip`, `unzip`, `tar czf` e `tar xzf`
 
 
