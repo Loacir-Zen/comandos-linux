@@ -40,7 +40,7 @@ Comandos: `grep`, `cut`, `wc` e `awk`
 
 ## 5. Empacotadores e Compactadores
 
-[Empacotadores e Compactadores](https://github.com/Loacir-Zen/comandos-linux/blob/main/Empacotadores-e-Compactadores.md)
+[Link do GItHub Empacotadores e Compactadores](https://github.com/Loacir-Zen/comandos-linux/blob/main/Empacotadores-e-Compactadores.md)
 
 Comandos: `zip`, `unzip`, `tar czf` e `tar xzf`
 
@@ -48,6 +48,6 @@ Comandos: `zip`, `unzip`, `tar czf` e `tar xzf`
 
 ## 6. Comandos para Gerenciamento do Sistema Operacional
 
-[Empacotadores e Compactadores](https://github.com/Loacir-Zen/comandos-linux/blob/main/Informacoes-Sistema.md)
+[Link do GItHub Informações sobre o Sistema](https://github.com/Loacir-Zen/comandos-linux/blob/main/Informacoes-Sistema.md)
 
 Comandos: `uname`, `uptime`, `top`, `free`, `df`, `du`, `file`, `whoami`, `who` e `w`
