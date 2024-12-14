@@ -46,8 +46,8 @@ Comandos: `zip`, `unzip`, `tar czf` e `tar xzf`
 
 -----------
 
-## 5. Comandos para coletar informções do sistema
+## 6. Comandos para Gerenciamento do Sistema Operacional
 
 [Empacotadores e Compactadores](https://github.com/Loacir-Zen/comandos-linux/blob/main/Informacoes-Sistema.md)
 
-Comandos: `zip`, `unzip`, `tar czf` e `tar xzf`
+Comandos: `uname`, `uptime`, `top`, `free`, `df`, `du`, `file`, `whoami`, `who` e `w`
