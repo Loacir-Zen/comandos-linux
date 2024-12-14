@@ -44,4 +44,10 @@ Comandos: `grep`, `cut`, `wc` e `awk`
 
 Comandos: `zip`, `unzip`, `tar czf` e `tar xzf`
 
+-----------
 
+## 5. Comandos para coletar informções do sistema
+
+[Empacotadores e Compactadores](https://github.com/Loacir-Zen/comandos-linux/blob/main/Informacoes-Sistema.md)
+
+Comandos: `zip`, `unzip`, `tar czf` e `tar xzf`
